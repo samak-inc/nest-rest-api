@@ -13,9 +13,12 @@
 		"**/.github": true,
 		"**/.husky": true,
 		"**/.hygen": true,
+		"**/.hygen.js": true,
+		"**/_temp_": true,
 		"**/test": true,
+		"**/scripts": true,
 		"**/.gitignore": true,
-		"**/.hygen.js": true
+		"**/.vscode": true
 	},
 	"explorerExclude.backup": {}
 }
